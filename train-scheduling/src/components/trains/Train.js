@@ -8,6 +8,7 @@ import Typography from '@mui/material/Typography';
 import { styled } from '@mui/material/styles';
 import Paper from '@mui/material/Paper';
 import Grid from '@mui/material/Grid';
+import Navbar from '../Navbar';
 
 
 
@@ -31,6 +32,7 @@ function Trains() {
 
   return (
     <>
+    <Navbar/>
       <Grid container spacing={4}>
 
         <Grid item xs={6}>
