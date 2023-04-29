@@ -24,13 +24,14 @@ export default function Navbar() {
             Train Scheduling
           </Typography>
           <Link to="/trains">
-          <Button color="inherit" >Display trainss</Button>
+          <Button color="inherit" >Display trains</Button>
           </Link>
          
         </Toolbar>
       </AppBar>
     </Box>
-    This is train scheduling
+    <h1>This is a train scheduling application </h1>
+    <h3>Click on display trains in the navigation bar above for more details on the trains</h3>
     </>
     
 
