@@ -7,6 +7,7 @@ import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 import IconButton from '@mui/material/IconButton';
 import MenuIcon from '@mui/icons-material/Menu';
+import Train from './trains/Train';
 
 export default function Navbar() {
   return (
@@ -20,5 +21,6 @@ export default function Navbar() {
         </Toolbar>
       </AppBar>
     </Box>
+    
   );
 }
