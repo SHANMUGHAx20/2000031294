@@ -85,7 +85,9 @@ function Trains() {
         </Typography>
       </CardContent>
       <CardActions>
+      <Link to="/train">
         <Button size="small">Book Tickets</Button>
+        </Link>
       </CardActions>
     </Card>
     </div>
@@ -111,7 +113,9 @@ function Trains() {
         </Typography>
       </CardContent>
       <CardActions>
+      <Link to="/train">
         <Button size="small">Book Tickets</Button>
+        </Link>
       </CardActions>
     </Card>
     </div>
@@ -137,7 +141,9 @@ function Trains() {
         </Typography>
       </CardContent>
       <CardActions>
+      <Link to="/train">
         <Button size="small">Book Tickets</Button>
+        </Link>
       </CardActions>
     </Card>
     </div>
@@ -163,7 +169,9 @@ function Trains() {
         </Typography>
       </CardContent>
       <CardActions>
+      <Link to="/train">
         <Button size="small">Book Tickets</Button>
+        </Link>
       </CardActions>
     </Card>
     </div>
@@ -189,7 +197,9 @@ function Trains() {
         </Typography>
       </CardContent>
       <CardActions>
+      <Link to="/train">
         <Button size="small">Book Tickets</Button>
+        </Link>
       </CardActions>
     </Card>
     </div>
