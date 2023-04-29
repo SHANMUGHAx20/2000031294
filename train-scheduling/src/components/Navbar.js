@@ -7,7 +7,7 @@ import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 import IconButton from '@mui/material/IconButton';
 import MenuIcon from '@mui/icons-material/Menu';
-import Train from './trains/Train';
+import Train from './trains/Trains';
 import { Link } from 'react-router-dom';
 
 
